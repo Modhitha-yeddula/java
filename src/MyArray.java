@@ -26,6 +26,7 @@ class MyArray{
         enames.set(0,"ram lakshaman");
         System.out.println(unames);
         System.out.println(enames);
+        System.out.println(unames);
         enames.removeAll(unames);
         enames.clear();
         System.out.println(enames);
